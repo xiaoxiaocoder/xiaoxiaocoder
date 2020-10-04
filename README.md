@@ -3,8 +3,9 @@
 [my github page's link](http://xiaoxiaocoder.github.io)
 
 #### Profile
-Front End: Javascript(vue, react), HTML, CSS
-Back End: Nodejs, Java, ASP.NET
+
+- Front End: Javascript(vue, react), HTML, CSS
+- Back End: Nodejs, Java, ASP.NET
 
 #### Slogan
 Love Technology, love Life!
