@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[my github page's link](http://xiaoxiaocoder.github.io)
+
+#### Profile
+Front End: Javascript(vue, react), HTML, CSS
+Back End: Nodejs, Java, ASP.NET
+
+#### Slogan
+Love Technology, love Life!
+
 <!--
 **xiaoxiaocoder/xiaoxiaocoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
